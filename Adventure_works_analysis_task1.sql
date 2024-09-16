@@ -1,4 +1,6 @@
---- CREATING AND IMPORTING THE TABLES 
+--- CREATING AND IMPORTING THE TABLES
+---1. Creating and Importing the Tables
+The first step is to create and import data into structured tables. These tables represent different aspects of sales activities in the Adventure Works dataset
 
 CREATE TABLE "AdventureWorks_Sales_2015" (
 	"OrderDate"	TEXT,
